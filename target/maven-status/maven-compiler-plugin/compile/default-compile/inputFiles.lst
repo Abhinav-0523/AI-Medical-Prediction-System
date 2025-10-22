@@ -1,0 +1,13 @@
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/App.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/controllers/DashboardController.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/controllers/LoginController.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/controllers/PatientFormController.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/controllers/PredictionsController.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/dao/MongoConnection.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/dao/PatientRepository.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/dao/UserRepository.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/model/Patient.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/model/User.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/security/Passwords.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/service/AuthService.java
+/Users/soumyadeepde/ai-medical-prediction/src/main/java/com/medpred/service/PredictionService.java
